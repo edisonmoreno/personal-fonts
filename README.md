@@ -1,5 +1,6 @@
 # personal-fonts
-Repositorio de fuentes de uso personal.
+Este repositorio tiene un GithubPage, y es para almacenar fuentes de uso personal, y usarlos en:
+- Draw.io
 
 ## Excalifont
 Fuente oficial de Excalidraw
